@@ -1,6 +1,6 @@
 ---
 works_index: true
-hero_text: "<strong>We're A1chemy Lab</strong>, we work for Graphics. But most importantly,
+hero_text: "<strong>We're A1CHEMY LAB</strong>, we work for Graphics. But most importantly,
   we work for fun."
 title: Hero
 
