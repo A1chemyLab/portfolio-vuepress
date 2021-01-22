@@ -4,8 +4,6 @@ excerpt: 來自煉金術事務所2021年的新年祝賀禮物！
 date: 
 
 ---
-# A1CHEMY LAB - 2021 Gifts - Calendar & Poster
-
 致親愛的客戶：
 
 今年事務所正式成立，年末稍作休息之後，  
