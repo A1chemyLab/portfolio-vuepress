@@ -1,7 +1,7 @@
 ---
 title: 2021 Gifts for you - Poster
 thumbnail: "/upload/113v2.jpg"
-description: Happy New Year!
+description: Happy New Year !
 categories:
 - graphic
 year: 2021
