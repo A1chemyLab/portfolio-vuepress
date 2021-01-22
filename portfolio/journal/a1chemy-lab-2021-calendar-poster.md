@@ -21,7 +21,7 @@ date:
 一律提供九折優惠（若過往曾經諮詢，  
 未曾合作，第一次合作再享九折優惠）
 
-> 祝您新的一年 事業順利、牛年旺返！
+祝您新的一年 事業順利、牛年旺返！
 
 煉金術事務所 敬上
 
@@ -36,13 +36,15 @@ date:
 
 ## **#2021 #牛年 #女神 #煉金術風格特製海報**
 
-> ### 取自素材庫中充滿煉金術風格的神秘素材，  
-> 金色的牛年女神為世界帶來新一年的豐收。
+取自素材庫中充滿煉金術風格的神秘素材，  
+金色的牛年女神為世界帶來新一年的豐收。
 
   
 ![](https://i.imgur.com/GLe5bfK.jpg)![](https://i.imgur.com/TIq6hAN.jpg)![](https://i.imgur.com/PsFZQP3.jpg)
 
 海報下載連結：[https://drive.google.com/file/d/1XAtmc5FAPSriYXQ4_T65OkmHA2gWl8Vo/view?usp=sharing](https://drive.google.com/file/d/1XAtmc5FAPSriYXQ4_T65OkmHA2gWl8Vo/view?usp=sharing "https://drive.google.com/file/d/1XAtmc5FAPSriYXQ4_T65OkmHA2gWl8Vo/view?usp=sharing")
+
+<hr/>
 
 ## **2021年煉金術植感年曆**
 
