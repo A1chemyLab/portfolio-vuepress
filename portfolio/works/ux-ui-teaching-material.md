@@ -1,7 +1,7 @@
 ---
-title: UX/UI Teaching material
+title: UX/UI Teaching Course
 thumbnail: "/upload/562d1f97167145-5ebfbaceaaa52.jpg"
-description: Internal Training Course
+description: Introduction to UX/UI
 categories:
 - UX/UI
 year: 2020
