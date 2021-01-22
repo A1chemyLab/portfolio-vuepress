@@ -1,7 +1,7 @@
 ---
 title: Wuling Farm
 thumbnail: "/upload/4d5dae82900603-5ed72b3958a99.jpg"
-description: Tri-Fold Direct Mail Design
+description: Tri-Fold DM Design
 categories: []
 year: 2020
 date: 
