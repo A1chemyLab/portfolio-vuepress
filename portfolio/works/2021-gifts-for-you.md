@@ -1,6 +1,6 @@
 ---
 title: 2021 Gifts for you
-thumbnail: "/upload/974.jpg"
+thumbnail: "/upload/974s.jpg"
 description: Calendar & Poster
 categories:
 - graphic
