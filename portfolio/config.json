@@ -6,6 +6,12 @@
   "favicon": "/upload/favicon-32x32.png",
   "navigation": [
     {
+      "text": "Line",
+      "link": "https://lin.ee/rrrnWoy",
+      "position": "left",
+      "external": true
+    },
+    {
       "text": "A1CHEMY LAB",
       "link": "https://a1chemylab.com/",
       "position": "right",
