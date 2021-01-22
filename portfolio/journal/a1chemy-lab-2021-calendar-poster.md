@@ -54,3 +54,9 @@ date:
 共同創造2021的作品及回憶！
 
 ![](https://i.imgur.com/9SG2lsn.jpg)
+
+可自行列印版本：  
+歡迎自行下載以A4或B4大小至便利商店列印，  
+印在稍微有厚度的紙上質感會更豐富～  
+讓這份精心製作的自然系植物年曆陪您紀錄新的一年！  
+下載連結：[https://drive.google.com/file/d/1naQrhm82qnfAp_s0gWIcvjDEEC5pMlCb/view?usp=sharing](https://drive.google.com/file/d/1naQrhm82qnfAp_s0gWIcvjDEEC5pMlCb/view?usp=sharing "https://drive.google.com/file/d/1naQrhm82qnfAp_s0gWIcvjDEEC5pMlCb/view?usp=sharing")
