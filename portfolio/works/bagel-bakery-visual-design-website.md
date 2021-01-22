@@ -1,7 +1,7 @@
 ---
 title: BAGEL BAKERY
 thumbnail: "/upload/be6fff94908349-5ec4a0cc686f5.jpeg"
-description: visual design & website
+description: Visual design & Website
 categories:
 - website
 - graphic
