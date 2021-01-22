@@ -6,6 +6,12 @@
   "favicon": "/upload/favicon-32x32.png",
   "navigation": [
     {
+      "text": "A1CHEMY LAB",
+      "link": "https://a1chemylab.com/",
+      "position": "right",
+      "external": true
+    },
+    {
       "text": "Works",
       "link": "/",
       "position": "left",
