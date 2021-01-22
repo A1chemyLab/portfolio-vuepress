@@ -28,6 +28,6 @@ date:
 我們另外製作了無LOGO版本，特別授權我們今年的往來客戶自由使用，  
 歡迎自行下載後將您自己的品牌或店面LOGO名稱置入空白金框中，  
 用可愛的牛年貼圖向您的客人及親朋好友拜年！  
-下載連結：[https://drive.google.com/file/d/1xv0xVMSyF821oj8fEAxwphqvSTfYs3zE/view?usp=sharing](https://drive.google.com/file/d/1xv0xVMSyF821oj8fEAxwphqvSTfYs3zE/view?usp=sharing "https://drive.google.com/file/d/1xv0xVMSyF821oj8fEAxwphqvSTfYs3zE/view?usp=sharing")
+[下載連結](https://drive.google.com/file/d/1xv0xVMSyF821oj8fEAxwphqvSTfYs3zE/view?usp=sharing)
 
 
