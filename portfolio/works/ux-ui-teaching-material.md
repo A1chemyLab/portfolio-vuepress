@@ -15,4 +15,8 @@ date:
 
 [教學投影片](https://drive.google.com/file/d/1-bH9WsT7DUO_-GT-S5LlqrZD5SmPptrt/view?usp=sharing)
 
-![](https://i.imgur.com/fAAAuHk.jpg)![](https://i.imgur.com/95l20iE.png)
+![](https://i.imgur.com/fAAAuHk.jpg)[手機版清晰圖傳送門](https://drive.google.com/file/d/1RnsRGH3q2u2a4zdzqg_uTl4xGWb5CC1q/view?usp=sharing)
+
+![](https://i.imgur.com/95l20iE.png)
+
+[手機版清晰圖傳送門](https://drive.google.com/file/d/1oD5OrVs_E1pfwcrtOvhU2DoZkxpkzQtU/view?usp=sharing)
