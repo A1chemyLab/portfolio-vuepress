@@ -35,4 +35,5 @@ fields:
   config:
     required: true
 pages:
+- portfolio/works/2021-gifts-for-you.md
 - portfolio/works/bagel-bakery-visual-design-website.md
