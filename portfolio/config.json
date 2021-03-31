@@ -6,27 +6,21 @@
   "favicon": "/upload/favicon-32x32.png",
   "navigation": [
     {
+      "text": "A1CHEMY LAB",
+      "link": "https://a1chemylab.com/",
+      "position": "left",
+      "external": true
+    },
+    {
       "text": "Behance",
       "link": "https://www.behance.net/a1chemylab",
       "position": "left",
       "external": true
     },
     {
-      "text": "A1CHEMY LAB",
-      "link": "https://a1chemylab.com/",
+      "text": "Journal",
+      "link": "/journal/",
       "position": "right",
-      "external": true
-    },
-    {
-      "text": "Works",
-      "link": "/",
-      "position": "left",
-      "external": false
-    },
-    {
-      "text": "Instagram",
-      "link": "https://www.instagram.com/a1chemy_lab",
-      "position": "left",
       "external": true
     },
     {
@@ -34,12 +28,6 @@
       "link": "mailto:design@a1chemylab.com",
       "position": "right",
       "external": true
-    },
-    {
-      "text": "Journal",
-      "link": "/journal/",
-      "position": "right",
-      "external": false
     }
   ]
 }
